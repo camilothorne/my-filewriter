@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>RW-files</name>
+	<name>rw-files</name>
 	<comment></comment>
 	<projects>
 		<project>key_read</project>
