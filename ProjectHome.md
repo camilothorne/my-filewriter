@@ -1,0 +1,1 @@
+A simple custom file reader/writer class for old versions of Java.
